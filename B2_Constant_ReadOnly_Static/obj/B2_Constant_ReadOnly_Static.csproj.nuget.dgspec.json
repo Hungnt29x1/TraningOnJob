@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\TraningOnJob\\TraningCSharp\\B2_Constant_ReadOnly_Static\\B2_Constant_ReadOnly_Static.csproj": {}
+    "E:\\TraningOnJob\\GitTraning\\TraningOnJob\\B2_Constant_ReadOnly_Static\\B2_Constant_ReadOnly_Static.csproj": {}
   },
   "projects": {
-    "E:\\TraningOnJob\\TraningCSharp\\B2_Constant_ReadOnly_Static\\B2_Constant_ReadOnly_Static.csproj": {
+    "E:\\TraningOnJob\\GitTraning\\TraningOnJob\\B2_Constant_ReadOnly_Static\\B2_Constant_ReadOnly_Static.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\TraningOnJob\\TraningCSharp\\B2_Constant_ReadOnly_Static\\B2_Constant_ReadOnly_Static.csproj",
+        "projectUniqueName": "E:\\TraningOnJob\\GitTraning\\TraningOnJob\\B2_Constant_ReadOnly_Static\\B2_Constant_ReadOnly_Static.csproj",
         "projectName": "B2_Constant_ReadOnly_Static",
-        "projectPath": "E:\\TraningOnJob\\TraningCSharp\\B2_Constant_ReadOnly_Static\\B2_Constant_ReadOnly_Static.csproj",
+        "projectPath": "E:\\TraningOnJob\\GitTraning\\TraningOnJob\\B2_Constant_ReadOnly_Static\\B2_Constant_ReadOnly_Static.csproj",
         "packagesPath": "C:\\Users\\jinbi\\.nuget\\packages\\",
-        "outputPath": "E:\\TraningOnJob\\TraningCSharp\\B2_Constant_ReadOnly_Static\\obj\\",
+        "outputPath": "E:\\TraningOnJob\\GitTraning\\TraningOnJob\\B2_Constant_ReadOnly_Static\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

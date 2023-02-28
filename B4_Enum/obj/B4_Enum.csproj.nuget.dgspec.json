@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\TraningOnJob\\TraningCSharp\\B4_Enum\\B4_Enum.csproj": {}
+    "E:\\TraningOnJob\\GitTraning\\TraningOnJob\\B4_Enum\\B4_Enum.csproj": {}
   },
   "projects": {
-    "E:\\TraningOnJob\\TraningCSharp\\B4_Enum\\B4_Enum.csproj": {
+    "E:\\TraningOnJob\\GitTraning\\TraningOnJob\\B4_Enum\\B4_Enum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\TraningOnJob\\TraningCSharp\\B4_Enum\\B4_Enum.csproj",
+        "projectUniqueName": "E:\\TraningOnJob\\GitTraning\\TraningOnJob\\B4_Enum\\B4_Enum.csproj",
         "projectName": "B4_Enum",
-        "projectPath": "E:\\TraningOnJob\\TraningCSharp\\B4_Enum\\B4_Enum.csproj",
+        "projectPath": "E:\\TraningOnJob\\GitTraning\\TraningOnJob\\B4_Enum\\B4_Enum.csproj",
         "packagesPath": "C:\\Users\\jinbi\\.nuget\\packages\\",
-        "outputPath": "E:\\TraningOnJob\\TraningCSharp\\B4_Enum\\obj\\",
+        "outputPath": "E:\\TraningOnJob\\GitTraning\\TraningOnJob\\B4_Enum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

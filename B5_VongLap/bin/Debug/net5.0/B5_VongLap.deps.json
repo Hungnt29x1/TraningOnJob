@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "B5_VongLap/1.0.0": {
+        "runtime": {
+          "B5_VongLap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B5_VongLap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

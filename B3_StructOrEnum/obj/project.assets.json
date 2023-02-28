@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\TraningOnJob\\TraningCSharp\\B3_StructOrEnum\\B3_Struct.csproj",
+      "projectUniqueName": "E:\\TraningOnJob\\GitTraning\\TraningOnJob\\B3_StructOrEnum\\B3_Struct.csproj",
       "projectName": "B3_Struct",
-      "projectPath": "E:\\TraningOnJob\\TraningCSharp\\B3_StructOrEnum\\B3_Struct.csproj",
+      "projectPath": "E:\\TraningOnJob\\GitTraning\\TraningOnJob\\B3_StructOrEnum\\B3_Struct.csproj",
       "packagesPath": "C:\\Users\\jinbi\\.nuget\\packages\\",
-      "outputPath": "E:\\TraningOnJob\\TraningCSharp\\B3_StructOrEnum\\obj\\",
+      "outputPath": "E:\\TraningOnJob\\GitTraning\\TraningOnJob\\B3_StructOrEnum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

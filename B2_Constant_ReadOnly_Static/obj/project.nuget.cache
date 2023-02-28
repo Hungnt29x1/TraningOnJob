@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mDtHe2YrpZX8UJb2FfcTKqOBrJKR6+CCrsgNtHWGAvsTDv9ubosmGwX0oXAciXeHwG0i7U0Z6CY2EDJpLnRAsw==",
+  "dgSpecHash": "HOfv5YiDmjdiKnoJ3+T783SWb/q38A+BLe/n97Y3jTu08y7Iohn3aZrn532+U8PLeV17tNFm8qK5Y9RZ5dZhzA==",
   "success": true,
-  "projectFilePath": "E:\\TraningOnJob\\TraningCSharp\\B2_Constant_ReadOnly_Static\\B2_Constant_ReadOnly_Static.csproj",
+  "projectFilePath": "E:\\TraningOnJob\\GitTraning\\TraningOnJob\\B2_Constant_ReadOnly_Static\\B2_Constant_ReadOnly_Static.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

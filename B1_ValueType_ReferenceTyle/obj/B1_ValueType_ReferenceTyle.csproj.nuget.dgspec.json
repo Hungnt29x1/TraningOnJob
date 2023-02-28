@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\TraningOnJob\\TraningCSharp\\B1_ValueType_ReferenceTyle\\B1_ValueType_ReferenceTyle.csproj": {}
+    "E:\\TraningOnJob\\GitTraning\\TraningOnJob\\B1_ValueType_ReferenceTyle\\B1_ValueType_ReferenceTyle.csproj": {}
   },
   "projects": {
-    "E:\\TraningOnJob\\TraningCSharp\\B1_ValueType_ReferenceTyle\\B1_ValueType_ReferenceTyle.csproj": {
+    "E:\\TraningOnJob\\GitTraning\\TraningOnJob\\B1_ValueType_ReferenceTyle\\B1_ValueType_ReferenceTyle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\TraningOnJob\\TraningCSharp\\B1_ValueType_ReferenceTyle\\B1_ValueType_ReferenceTyle.csproj",
+        "projectUniqueName": "E:\\TraningOnJob\\GitTraning\\TraningOnJob\\B1_ValueType_ReferenceTyle\\B1_ValueType_ReferenceTyle.csproj",
         "projectName": "B1_ValueType_ReferenceTyle",
-        "projectPath": "E:\\TraningOnJob\\TraningCSharp\\B1_ValueType_ReferenceTyle\\B1_ValueType_ReferenceTyle.csproj",
+        "projectPath": "E:\\TraningOnJob\\GitTraning\\TraningOnJob\\B1_ValueType_ReferenceTyle\\B1_ValueType_ReferenceTyle.csproj",
         "packagesPath": "C:\\Users\\jinbi\\.nuget\\packages\\",
-        "outputPath": "E:\\TraningOnJob\\TraningCSharp\\B1_ValueType_ReferenceTyle\\obj\\",
+        "outputPath": "E:\\TraningOnJob\\GitTraning\\TraningOnJob\\B1_ValueType_ReferenceTyle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

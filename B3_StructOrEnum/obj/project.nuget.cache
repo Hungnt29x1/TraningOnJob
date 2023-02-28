@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZsL5MZXrh8EE9kfZGTYuharvHw8+yyXv0U3VPTV0EYsjtlm3XJwI7EQ1QMjukpvM6pL5bsYTa+beWavUsJiiKg==",
+  "dgSpecHash": "TR6dQ9SR2D9uEAq4w8r1baYVyomrmYnRF69UypjPcQPFs09o2bC3bcKwdsGrBr7Do5ySCzAKuEqtGqZAmhgn5g==",
   "success": true,
-  "projectFilePath": "E:\\TraningOnJob\\TraningCSharp\\B3_StructOrEnum\\B3_Struct.csproj",
+  "projectFilePath": "E:\\TraningOnJob\\GitTraning\\TraningOnJob\\B3_StructOrEnum\\B3_Struct.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

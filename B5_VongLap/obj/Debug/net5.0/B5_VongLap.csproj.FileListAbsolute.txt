@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitTraning\TraningOnJob\B5_VongLap\bin\Debug\net5.0\B5_VongLap.exe
+E:\TraningOnJob\GitTraning\TraningOnJob\B5_VongLap\bin\Debug\net5.0\B5_VongLap.deps.json
+E:\TraningOnJob\GitTraning\TraningOnJob\B5_VongLap\bin\Debug\net5.0\B5_VongLap.runtimeconfig.json
+E:\TraningOnJob\GitTraning\TraningOnJob\B5_VongLap\bin\Debug\net5.0\B5_VongLap.runtimeconfig.dev.json
+E:\TraningOnJob\GitTraning\TraningOnJob\B5_VongLap\bin\Debug\net5.0\B5_VongLap.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\B5_VongLap\bin\Debug\net5.0\B5_VongLap.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\B5_VongLap\obj\Debug\net5.0\B5_VongLap.csproj.AssemblyReference.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\B5_VongLap\obj\Debug\net5.0\B5_VongLap.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitTraning\TraningOnJob\B5_VongLap\obj\Debug\net5.0\B5_VongLap.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\B5_VongLap\obj\Debug\net5.0\B5_VongLap.AssemblyInfo.cs
+E:\TraningOnJob\GitTraning\TraningOnJob\B5_VongLap\obj\Debug\net5.0\B5_VongLap.csproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\B5_VongLap\obj\Debug\net5.0\B5_VongLap.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\B5_VongLap\obj\Debug\net5.0\refint\B5_VongLap.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\B5_VongLap\obj\Debug\net5.0\B5_VongLap.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\B5_VongLap\obj\Debug\net5.0\B5_VongLap.genruntimeconfig.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\B5_VongLap\obj\Debug\net5.0\ref\B5_VongLap.dll

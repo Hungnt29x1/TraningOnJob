@@ -49,7 +49,7 @@ namespace B4_Enum
             };
             foreach (var item in students)
             {
-                Console.WriteLine($"Mã : {item.Id}, Tên : {item.Name}, Tuổi: {item.Age}, Trạng thái: {item.Status}");
+                Console.WriteLine($"Mã : {item.Id}, Tên : {item.Name}, Tuổi: {item.Age}, Trạng thái enum: {item.Status}");
                 Console.WriteLine();
             }
         }

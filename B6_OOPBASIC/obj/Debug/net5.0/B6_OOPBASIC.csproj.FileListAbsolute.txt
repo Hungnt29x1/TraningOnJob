@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitTraning\TraningOnJob\B6_OOPBASIC\obj\Debug\net5.0\B6_OOPBASIC.csproj.AssemblyReference.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\B6_OOPBASIC\obj\Debug\net5.0\B6_OOPBASIC.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitTraning\TraningOnJob\B6_OOPBASIC\obj\Debug\net5.0\B6_OOPBASIC.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\B6_OOPBASIC\obj\Debug\net5.0\B6_OOPBASIC.AssemblyInfo.cs
+E:\TraningOnJob\GitTraning\TraningOnJob\B6_OOPBASIC\obj\Debug\net5.0\B6_OOPBASIC.csproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\B6_OOPBASIC\bin\Debug\net5.0\B6_OOPBASIC.exe
+E:\TraningOnJob\GitTraning\TraningOnJob\B6_OOPBASIC\bin\Debug\net5.0\B6_OOPBASIC.deps.json
+E:\TraningOnJob\GitTraning\TraningOnJob\B6_OOPBASIC\bin\Debug\net5.0\B6_OOPBASIC.runtimeconfig.json
+E:\TraningOnJob\GitTraning\TraningOnJob\B6_OOPBASIC\bin\Debug\net5.0\B6_OOPBASIC.runtimeconfig.dev.json
+E:\TraningOnJob\GitTraning\TraningOnJob\B6_OOPBASIC\bin\Debug\net5.0\B6_OOPBASIC.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\B6_OOPBASIC\bin\Debug\net5.0\B6_OOPBASIC.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\B6_OOPBASIC\obj\Debug\net5.0\B6_OOPBASIC.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\B6_OOPBASIC\obj\Debug\net5.0\refint\B6_OOPBASIC.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\B6_OOPBASIC\obj\Debug\net5.0\B6_OOPBASIC.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\B6_OOPBASIC\obj\Debug\net5.0\B6_OOPBASIC.genruntimeconfig.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\B6_OOPBASIC\obj\Debug\net5.0\ref\B6_OOPBASIC.dll
