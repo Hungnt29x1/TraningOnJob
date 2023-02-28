@@ -1,0 +1,16 @@
+E:\TraningOnJob\TraningCSharp\B1_ValueType_ReferenceTyle\bin\Debug\net5.0\B1_ValueType_ReferenceTyle.exe
+E:\TraningOnJob\TraningCSharp\B1_ValueType_ReferenceTyle\bin\Debug\net5.0\B1_ValueType_ReferenceTyle.deps.json
+E:\TraningOnJob\TraningCSharp\B1_ValueType_ReferenceTyle\bin\Debug\net5.0\B1_ValueType_ReferenceTyle.runtimeconfig.json
+E:\TraningOnJob\TraningCSharp\B1_ValueType_ReferenceTyle\bin\Debug\net5.0\B1_ValueType_ReferenceTyle.runtimeconfig.dev.json
+E:\TraningOnJob\TraningCSharp\B1_ValueType_ReferenceTyle\bin\Debug\net5.0\B1_ValueType_ReferenceTyle.dll
+E:\TraningOnJob\TraningCSharp\B1_ValueType_ReferenceTyle\bin\Debug\net5.0\B1_ValueType_ReferenceTyle.pdb
+E:\TraningOnJob\TraningCSharp\B1_ValueType_ReferenceTyle\obj\Debug\net5.0\B1_ValueType_ReferenceTyle.csproj.AssemblyReference.cache
+E:\TraningOnJob\TraningCSharp\B1_ValueType_ReferenceTyle\obj\Debug\net5.0\B1_ValueType_ReferenceTyle.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\TraningCSharp\B1_ValueType_ReferenceTyle\obj\Debug\net5.0\B1_ValueType_ReferenceTyle.AssemblyInfoInputs.cache
+E:\TraningOnJob\TraningCSharp\B1_ValueType_ReferenceTyle\obj\Debug\net5.0\B1_ValueType_ReferenceTyle.AssemblyInfo.cs
+E:\TraningOnJob\TraningCSharp\B1_ValueType_ReferenceTyle\obj\Debug\net5.0\B1_ValueType_ReferenceTyle.csproj.CoreCompileInputs.cache
+E:\TraningOnJob\TraningCSharp\B1_ValueType_ReferenceTyle\obj\Debug\net5.0\B1_ValueType_ReferenceTyle.dll
+E:\TraningOnJob\TraningCSharp\B1_ValueType_ReferenceTyle\obj\Debug\net5.0\refint\B1_ValueType_ReferenceTyle.dll
+E:\TraningOnJob\TraningCSharp\B1_ValueType_ReferenceTyle\obj\Debug\net5.0\B1_ValueType_ReferenceTyle.pdb
+E:\TraningOnJob\TraningCSharp\B1_ValueType_ReferenceTyle\obj\Debug\net5.0\B1_ValueType_ReferenceTyle.genruntimeconfig.cache
+E:\TraningOnJob\TraningCSharp\B1_ValueType_ReferenceTyle\obj\Debug\net5.0\ref\B1_ValueType_ReferenceTyle.dll

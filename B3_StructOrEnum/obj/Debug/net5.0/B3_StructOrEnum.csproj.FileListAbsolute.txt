@@ -1,0 +1,16 @@
+E:\TraningOnJob\TraningCSharp\B3_StructOrEnum\bin\Debug\net5.0\B3_StructOrEnum.exe
+E:\TraningOnJob\TraningCSharp\B3_StructOrEnum\bin\Debug\net5.0\B3_StructOrEnum.deps.json
+E:\TraningOnJob\TraningCSharp\B3_StructOrEnum\bin\Debug\net5.0\B3_StructOrEnum.runtimeconfig.json
+E:\TraningOnJob\TraningCSharp\B3_StructOrEnum\bin\Debug\net5.0\B3_StructOrEnum.runtimeconfig.dev.json
+E:\TraningOnJob\TraningCSharp\B3_StructOrEnum\bin\Debug\net5.0\B3_StructOrEnum.dll
+E:\TraningOnJob\TraningCSharp\B3_StructOrEnum\bin\Debug\net5.0\B3_StructOrEnum.pdb
+E:\TraningOnJob\TraningCSharp\B3_StructOrEnum\obj\Debug\net5.0\B3_StructOrEnum.csproj.AssemblyReference.cache
+E:\TraningOnJob\TraningCSharp\B3_StructOrEnum\obj\Debug\net5.0\B3_StructOrEnum.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\TraningCSharp\B3_StructOrEnum\obj\Debug\net5.0\B3_StructOrEnum.AssemblyInfoInputs.cache
+E:\TraningOnJob\TraningCSharp\B3_StructOrEnum\obj\Debug\net5.0\B3_StructOrEnum.AssemblyInfo.cs
+E:\TraningOnJob\TraningCSharp\B3_StructOrEnum\obj\Debug\net5.0\B3_StructOrEnum.csproj.CoreCompileInputs.cache
+E:\TraningOnJob\TraningCSharp\B3_StructOrEnum\obj\Debug\net5.0\B3_StructOrEnum.dll
+E:\TraningOnJob\TraningCSharp\B3_StructOrEnum\obj\Debug\net5.0\refint\B3_StructOrEnum.dll
+E:\TraningOnJob\TraningCSharp\B3_StructOrEnum\obj\Debug\net5.0\B3_StructOrEnum.pdb
+E:\TraningOnJob\TraningCSharp\B3_StructOrEnum\obj\Debug\net5.0\B3_StructOrEnum.genruntimeconfig.cache
+E:\TraningOnJob\TraningCSharp\B3_StructOrEnum\obj\Debug\net5.0\ref\B3_StructOrEnum.dll

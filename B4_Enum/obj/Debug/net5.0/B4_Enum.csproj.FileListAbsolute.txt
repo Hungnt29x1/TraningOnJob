@@ -1,0 +1,16 @@
+E:\TraningOnJob\TraningCSharp\B4_Enum\bin\Debug\net5.0\B4_Enum.exe
+E:\TraningOnJob\TraningCSharp\B4_Enum\bin\Debug\net5.0\B4_Enum.deps.json
+E:\TraningOnJob\TraningCSharp\B4_Enum\bin\Debug\net5.0\B4_Enum.runtimeconfig.json
+E:\TraningOnJob\TraningCSharp\B4_Enum\bin\Debug\net5.0\B4_Enum.runtimeconfig.dev.json
+E:\TraningOnJob\TraningCSharp\B4_Enum\bin\Debug\net5.0\B4_Enum.dll
+E:\TraningOnJob\TraningCSharp\B4_Enum\bin\Debug\net5.0\B4_Enum.pdb
+E:\TraningOnJob\TraningCSharp\B4_Enum\obj\Debug\net5.0\B4_Enum.csproj.AssemblyReference.cache
+E:\TraningOnJob\TraningCSharp\B4_Enum\obj\Debug\net5.0\B4_Enum.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\TraningCSharp\B4_Enum\obj\Debug\net5.0\B4_Enum.AssemblyInfoInputs.cache
+E:\TraningOnJob\TraningCSharp\B4_Enum\obj\Debug\net5.0\B4_Enum.AssemblyInfo.cs
+E:\TraningOnJob\TraningCSharp\B4_Enum\obj\Debug\net5.0\B4_Enum.csproj.CoreCompileInputs.cache
+E:\TraningOnJob\TraningCSharp\B4_Enum\obj\Debug\net5.0\B4_Enum.dll
+E:\TraningOnJob\TraningCSharp\B4_Enum\obj\Debug\net5.0\refint\B4_Enum.dll
+E:\TraningOnJob\TraningCSharp\B4_Enum\obj\Debug\net5.0\B4_Enum.pdb
+E:\TraningOnJob\TraningCSharp\B4_Enum\obj\Debug\net5.0\B4_Enum.genruntimeconfig.cache
+E:\TraningOnJob\TraningCSharp\B4_Enum\obj\Debug\net5.0\ref\B4_Enum.dll

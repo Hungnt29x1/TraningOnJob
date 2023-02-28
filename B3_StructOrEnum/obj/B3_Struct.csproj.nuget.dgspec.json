@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\TraningOnJob\\TraningCSharp\\B3_StructOrEnum\\B3_Struct.csproj": {}
+  },
+  "projects": {
+    "E:\\TraningOnJob\\TraningCSharp\\B3_StructOrEnum\\B3_Struct.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\TraningOnJob\\TraningCSharp\\B3_StructOrEnum\\B3_Struct.csproj",
+        "projectName": "B3_Struct",
+        "projectPath": "E:\\TraningOnJob\\TraningCSharp\\B3_StructOrEnum\\B3_Struct.csproj",
+        "packagesPath": "C:\\Users\\jinbi\\.nuget\\packages\\",
+        "outputPath": "E:\\TraningOnJob\\TraningCSharp\\B3_StructOrEnum\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jinbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
