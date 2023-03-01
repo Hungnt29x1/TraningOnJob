@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitTraning\TraningOnJob\B9_FileIO\bin\Debug\net5.0\B9_FileIO.exe
+E:\TraningOnJob\GitTraning\TraningOnJob\B9_FileIO\bin\Debug\net5.0\B9_FileIO.deps.json
+E:\TraningOnJob\GitTraning\TraningOnJob\B9_FileIO\bin\Debug\net5.0\B9_FileIO.runtimeconfig.json
+E:\TraningOnJob\GitTraning\TraningOnJob\B9_FileIO\bin\Debug\net5.0\B9_FileIO.runtimeconfig.dev.json
+E:\TraningOnJob\GitTraning\TraningOnJob\B9_FileIO\bin\Debug\net5.0\B9_FileIO.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\B9_FileIO\bin\Debug\net5.0\B9_FileIO.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\B9_FileIO\obj\Debug\net5.0\B9_FileIO.csproj.AssemblyReference.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\B9_FileIO\obj\Debug\net5.0\B9_FileIO.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitTraning\TraningOnJob\B9_FileIO\obj\Debug\net5.0\B9_FileIO.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\B9_FileIO\obj\Debug\net5.0\B9_FileIO.AssemblyInfo.cs
+E:\TraningOnJob\GitTraning\TraningOnJob\B9_FileIO\obj\Debug\net5.0\B9_FileIO.csproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\B9_FileIO\obj\Debug\net5.0\B9_FileIO.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\B9_FileIO\obj\Debug\net5.0\refint\B9_FileIO.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\B9_FileIO\obj\Debug\net5.0\B9_FileIO.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\B9_FileIO\obj\Debug\net5.0\B9_FileIO.genruntimeconfig.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\B9_FileIO\obj\Debug\net5.0\ref\B9_FileIO.dll

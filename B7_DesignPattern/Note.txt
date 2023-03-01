@@ -1,0 +1,9 @@
+﻿- Dependency Injection 
+-	Đầu tiên, phải hiểu được 3 phần dưới:
++ Dependency Inversion: Đây là 1 nguyên lý để thiết kế và viết code
++ Inversion of Control: Đây là 1 design pattern được tạo ra để code có thể tuân thủ nguyên lý Dependency Inversion. 
+  Có nhiều cách thực hiện pattern này: Event,Delegate,.. và dependency Injection là 1 trong các cách đó
++  Dependency Injection: Đây là 1 cách để hiện thực Inversion of control pattern (có thể coi nó là 1 design pattern 
+   riêng cũng đc ). Tức nghĩa là các module cấp thấp phụ thuộc sẽ được inject vào module cấp cao. Mục đích của nó 
+   là để giảm sự phụ thuộc của các thành phần với nhau . Nó giúp ta dễ bảo trì và dễ thay đổi khi có nhu cầu . Tăng 
+   khả năng tái sử dụng 

@@ -1,0 +1,15 @@
+E:\TraningOnJob\GitTraning\TraningOnJob\DAL_DBFirst\bin\Debug\net5.0\DAL_CodeFirst.deps.json
+E:\TraningOnJob\GitTraning\TraningOnJob\DAL_DBFirst\bin\Debug\net5.0\DAL_CodeFirst.runtimeconfig.json
+E:\TraningOnJob\GitTraning\TraningOnJob\DAL_DBFirst\bin\Debug\net5.0\DAL_CodeFirst.runtimeconfig.dev.json
+E:\TraningOnJob\GitTraning\TraningOnJob\DAL_DBFirst\bin\Debug\net5.0\DAL_CodeFirst.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\DAL_DBFirst\bin\Debug\net5.0\DAL_CodeFirst.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\DAL_DBFirst\obj\Debug\net5.0\DAL_CodeFirst.csproj.AssemblyReference.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\DAL_DBFirst\obj\Debug\net5.0\DAL_CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitTraning\TraningOnJob\DAL_DBFirst\obj\Debug\net5.0\DAL_CodeFirst.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\DAL_DBFirst\obj\Debug\net5.0\DAL_CodeFirst.AssemblyInfo.cs
+E:\TraningOnJob\GitTraning\TraningOnJob\DAL_DBFirst\obj\Debug\net5.0\DAL_CodeFirst.csproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\DAL_DBFirst\obj\Debug\net5.0\DAL_CodeFirst.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\DAL_DBFirst\obj\Debug\net5.0\refint\DAL_CodeFirst.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\DAL_DBFirst\obj\Debug\net5.0\DAL_CodeFirst.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\DAL_DBFirst\obj\Debug\net5.0\DAL_CodeFirst.genruntimeconfig.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\DAL_DBFirst\obj\Debug\net5.0\ref\DAL_CodeFirst.dll
