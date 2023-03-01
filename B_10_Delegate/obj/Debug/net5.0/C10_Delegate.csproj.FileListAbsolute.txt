@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitTraning\TraningOnJob\B_10_Delegate\bin\Debug\net5.0\C10_Delegate.exe
+E:\TraningOnJob\GitTraning\TraningOnJob\B_10_Delegate\bin\Debug\net5.0\C10_Delegate.deps.json
+E:\TraningOnJob\GitTraning\TraningOnJob\B_10_Delegate\bin\Debug\net5.0\C10_Delegate.runtimeconfig.json
+E:\TraningOnJob\GitTraning\TraningOnJob\B_10_Delegate\bin\Debug\net5.0\C10_Delegate.runtimeconfig.dev.json
+E:\TraningOnJob\GitTraning\TraningOnJob\B_10_Delegate\bin\Debug\net5.0\C10_Delegate.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\B_10_Delegate\bin\Debug\net5.0\C10_Delegate.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\B_10_Delegate\obj\Debug\net5.0\C10_Delegate.csproj.AssemblyReference.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\B_10_Delegate\obj\Debug\net5.0\C10_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitTraning\TraningOnJob\B_10_Delegate\obj\Debug\net5.0\C10_Delegate.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\B_10_Delegate\obj\Debug\net5.0\C10_Delegate.AssemblyInfo.cs
+E:\TraningOnJob\GitTraning\TraningOnJob\B_10_Delegate\obj\Debug\net5.0\C10_Delegate.csproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\B_10_Delegate\obj\Debug\net5.0\C10_Delegate.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\B_10_Delegate\obj\Debug\net5.0\refint\C10_Delegate.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\B_10_Delegate\obj\Debug\net5.0\C10_Delegate.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\B_10_Delegate\obj\Debug\net5.0\C10_Delegate.genruntimeconfig.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\B_10_Delegate\obj\Debug\net5.0\ref\C10_Delegate.dll
