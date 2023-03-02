@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitTraning\TraningOnJob\C12_EXCEPTION\bin\Debug\net5.0\C12_EXCEPTION.exe
+E:\TraningOnJob\GitTraning\TraningOnJob\C12_EXCEPTION\bin\Debug\net5.0\C12_EXCEPTION.deps.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C12_EXCEPTION\bin\Debug\net5.0\C12_EXCEPTION.runtimeconfig.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C12_EXCEPTION\bin\Debug\net5.0\C12_EXCEPTION.runtimeconfig.dev.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C12_EXCEPTION\bin\Debug\net5.0\C12_EXCEPTION.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C12_EXCEPTION\bin\Debug\net5.0\C12_EXCEPTION.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\C12_EXCEPTION\obj\Debug\net5.0\C12_EXCEPTION.csproj.AssemblyReference.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C12_EXCEPTION\obj\Debug\net5.0\C12_EXCEPTION.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitTraning\TraningOnJob\C12_EXCEPTION\obj\Debug\net5.0\C12_EXCEPTION.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C12_EXCEPTION\obj\Debug\net5.0\C12_EXCEPTION.AssemblyInfo.cs
+E:\TraningOnJob\GitTraning\TraningOnJob\C12_EXCEPTION\obj\Debug\net5.0\C12_EXCEPTION.csproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C12_EXCEPTION\obj\Debug\net5.0\C12_EXCEPTION.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C12_EXCEPTION\obj\Debug\net5.0\refint\C12_EXCEPTION.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C12_EXCEPTION\obj\Debug\net5.0\C12_EXCEPTION.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\C12_EXCEPTION\obj\Debug\net5.0\C12_EXCEPTION.genruntimeconfig.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C12_EXCEPTION\obj\Debug\net5.0\ref\C12_EXCEPTION.dll

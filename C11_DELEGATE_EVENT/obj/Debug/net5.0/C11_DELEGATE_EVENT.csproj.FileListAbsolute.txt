@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitTraning\TraningOnJob\C11_DELEGATE_EVENT\bin\Debug\net5.0\C11_DELEGATE_EVENT.exe
+E:\TraningOnJob\GitTraning\TraningOnJob\C11_DELEGATE_EVENT\bin\Debug\net5.0\C11_DELEGATE_EVENT.deps.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C11_DELEGATE_EVENT\bin\Debug\net5.0\C11_DELEGATE_EVENT.runtimeconfig.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C11_DELEGATE_EVENT\bin\Debug\net5.0\C11_DELEGATE_EVENT.runtimeconfig.dev.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C11_DELEGATE_EVENT\bin\Debug\net5.0\C11_DELEGATE_EVENT.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C11_DELEGATE_EVENT\bin\Debug\net5.0\C11_DELEGATE_EVENT.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\C11_DELEGATE_EVENT\obj\Debug\net5.0\C11_DELEGATE_EVENT.csproj.AssemblyReference.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C11_DELEGATE_EVENT\obj\Debug\net5.0\C11_DELEGATE_EVENT.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitTraning\TraningOnJob\C11_DELEGATE_EVENT\obj\Debug\net5.0\C11_DELEGATE_EVENT.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C11_DELEGATE_EVENT\obj\Debug\net5.0\C11_DELEGATE_EVENT.AssemblyInfo.cs
+E:\TraningOnJob\GitTraning\TraningOnJob\C11_DELEGATE_EVENT\obj\Debug\net5.0\C11_DELEGATE_EVENT.csproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C11_DELEGATE_EVENT\obj\Debug\net5.0\C11_DELEGATE_EVENT.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C11_DELEGATE_EVENT\obj\Debug\net5.0\refint\C11_DELEGATE_EVENT.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C11_DELEGATE_EVENT\obj\Debug\net5.0\C11_DELEGATE_EVENT.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\C11_DELEGATE_EVENT\obj\Debug\net5.0\C11_DELEGATE_EVENT.genruntimeconfig.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C11_DELEGATE_EVENT\obj\Debug\net5.0\ref\C11_DELEGATE_EVENT.dll
