@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitTraning\TraningOnJob\C21_MD5_SHA1_SHA256\bin\Debug\net5.0\C21_MD5_SHA1_SHA256.exe
+E:\TraningOnJob\GitTraning\TraningOnJob\C21_MD5_SHA1_SHA256\bin\Debug\net5.0\C21_MD5_SHA1_SHA256.deps.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C21_MD5_SHA1_SHA256\bin\Debug\net5.0\C21_MD5_SHA1_SHA256.runtimeconfig.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C21_MD5_SHA1_SHA256\bin\Debug\net5.0\C21_MD5_SHA1_SHA256.runtimeconfig.dev.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C21_MD5_SHA1_SHA256\bin\Debug\net5.0\C21_MD5_SHA1_SHA256.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C21_MD5_SHA1_SHA256\bin\Debug\net5.0\C21_MD5_SHA1_SHA256.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\C21_MD5_SHA1_SHA256\obj\Debug\net5.0\C21_MD5_SHA1_SHA256.csproj.AssemblyReference.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C21_MD5_SHA1_SHA256\obj\Debug\net5.0\C21_MD5_SHA1_SHA256.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitTraning\TraningOnJob\C21_MD5_SHA1_SHA256\obj\Debug\net5.0\C21_MD5_SHA1_SHA256.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C21_MD5_SHA1_SHA256\obj\Debug\net5.0\C21_MD5_SHA1_SHA256.AssemblyInfo.cs
+E:\TraningOnJob\GitTraning\TraningOnJob\C21_MD5_SHA1_SHA256\obj\Debug\net5.0\C21_MD5_SHA1_SHA256.csproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C21_MD5_SHA1_SHA256\obj\Debug\net5.0\C21_MD5_SHA1_SHA256.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C21_MD5_SHA1_SHA256\obj\Debug\net5.0\refint\C21_MD5_SHA1_SHA256.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C21_MD5_SHA1_SHA256\obj\Debug\net5.0\C21_MD5_SHA1_SHA256.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\C21_MD5_SHA1_SHA256\obj\Debug\net5.0\C21_MD5_SHA1_SHA256.genruntimeconfig.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C21_MD5_SHA1_SHA256\obj\Debug\net5.0\ref\C21_MD5_SHA1_SHA256.dll
