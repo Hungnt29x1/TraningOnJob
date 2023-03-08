@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitTraning\TraningOnJob\C18_Anonymous\bin\Debug\net5.0\C18_Anonymous.exe
+E:\TraningOnJob\GitTraning\TraningOnJob\C18_Anonymous\bin\Debug\net5.0\C18_Anonymous.deps.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C18_Anonymous\bin\Debug\net5.0\C18_Anonymous.runtimeconfig.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C18_Anonymous\bin\Debug\net5.0\C18_Anonymous.runtimeconfig.dev.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C18_Anonymous\bin\Debug\net5.0\C18_Anonymous.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C18_Anonymous\bin\Debug\net5.0\C18_Anonymous.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\C18_Anonymous\obj\Debug\net5.0\C18_Anonymous.csproj.AssemblyReference.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C18_Anonymous\obj\Debug\net5.0\C18_Anonymous.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitTraning\TraningOnJob\C18_Anonymous\obj\Debug\net5.0\C18_Anonymous.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C18_Anonymous\obj\Debug\net5.0\C18_Anonymous.AssemblyInfo.cs
+E:\TraningOnJob\GitTraning\TraningOnJob\C18_Anonymous\obj\Debug\net5.0\C18_Anonymous.csproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C18_Anonymous\obj\Debug\net5.0\C18_Anonymous.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C18_Anonymous\obj\Debug\net5.0\refint\C18_Anonymous.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C18_Anonymous\obj\Debug\net5.0\C18_Anonymous.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\C18_Anonymous\obj\Debug\net5.0\C18_Anonymous.genruntimeconfig.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C18_Anonymous\obj\Debug\net5.0\ref\C18_Anonymous.dll

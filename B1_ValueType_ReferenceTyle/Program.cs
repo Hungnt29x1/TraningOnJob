@@ -24,6 +24,8 @@ namespace B1_ValueType_ReferenceTyle
 
     - Kiểu tham chiếu
      */
+
+
     internal class Program
     {
         static void ChangeValue(int x)

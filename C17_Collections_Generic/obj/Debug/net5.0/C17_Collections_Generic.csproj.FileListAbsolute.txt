@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitTraning\TraningOnJob\C17_Collections_Generic\bin\Debug\net5.0\C17_Collections_Generic.exe
+E:\TraningOnJob\GitTraning\TraningOnJob\C17_Collections_Generic\bin\Debug\net5.0\C17_Collections_Generic.deps.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C17_Collections_Generic\bin\Debug\net5.0\C17_Collections_Generic.runtimeconfig.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C17_Collections_Generic\bin\Debug\net5.0\C17_Collections_Generic.runtimeconfig.dev.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C17_Collections_Generic\bin\Debug\net5.0\C17_Collections_Generic.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C17_Collections_Generic\bin\Debug\net5.0\C17_Collections_Generic.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\C17_Collections_Generic\obj\Debug\net5.0\C17_Collections_Generic.csproj.AssemblyReference.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C17_Collections_Generic\obj\Debug\net5.0\C17_Collections_Generic.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitTraning\TraningOnJob\C17_Collections_Generic\obj\Debug\net5.0\C17_Collections_Generic.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C17_Collections_Generic\obj\Debug\net5.0\C17_Collections_Generic.AssemblyInfo.cs
+E:\TraningOnJob\GitTraning\TraningOnJob\C17_Collections_Generic\obj\Debug\net5.0\C17_Collections_Generic.csproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C17_Collections_Generic\obj\Debug\net5.0\C17_Collections_Generic.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C17_Collections_Generic\obj\Debug\net5.0\refint\C17_Collections_Generic.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C17_Collections_Generic\obj\Debug\net5.0\C17_Collections_Generic.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\C17_Collections_Generic\obj\Debug\net5.0\C17_Collections_Generic.genruntimeconfig.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C17_Collections_Generic\obj\Debug\net5.0\ref\C17_Collections_Generic.dll

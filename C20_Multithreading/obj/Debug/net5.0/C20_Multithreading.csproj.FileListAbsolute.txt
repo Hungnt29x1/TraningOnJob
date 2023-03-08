@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitTraning\TraningOnJob\C20_Multithreading\bin\Debug\net5.0\C20_Multithreading.exe
+E:\TraningOnJob\GitTraning\TraningOnJob\C20_Multithreading\bin\Debug\net5.0\C20_Multithreading.deps.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C20_Multithreading\bin\Debug\net5.0\C20_Multithreading.runtimeconfig.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C20_Multithreading\bin\Debug\net5.0\C20_Multithreading.runtimeconfig.dev.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C20_Multithreading\bin\Debug\net5.0\C20_Multithreading.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C20_Multithreading\bin\Debug\net5.0\C20_Multithreading.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\C20_Multithreading\obj\Debug\net5.0\C20_Multithreading.csproj.AssemblyReference.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C20_Multithreading\obj\Debug\net5.0\C20_Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitTraning\TraningOnJob\C20_Multithreading\obj\Debug\net5.0\C20_Multithreading.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C20_Multithreading\obj\Debug\net5.0\C20_Multithreading.AssemblyInfo.cs
+E:\TraningOnJob\GitTraning\TraningOnJob\C20_Multithreading\obj\Debug\net5.0\C20_Multithreading.csproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C20_Multithreading\obj\Debug\net5.0\C20_Multithreading.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C20_Multithreading\obj\Debug\net5.0\refint\C20_Multithreading.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C20_Multithreading\obj\Debug\net5.0\C20_Multithreading.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\C20_Multithreading\obj\Debug\net5.0\C20_Multithreading.genruntimeconfig.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C20_Multithreading\obj\Debug\net5.0\ref\C20_Multithreading.dll

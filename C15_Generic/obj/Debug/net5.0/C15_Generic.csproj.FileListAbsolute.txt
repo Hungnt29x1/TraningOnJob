@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitTraning\TraningOnJob\C15_Generic\bin\Debug\net5.0\C15_Generic.exe
+E:\TraningOnJob\GitTraning\TraningOnJob\C15_Generic\bin\Debug\net5.0\C15_Generic.deps.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C15_Generic\bin\Debug\net5.0\C15_Generic.runtimeconfig.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C15_Generic\bin\Debug\net5.0\C15_Generic.runtimeconfig.dev.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C15_Generic\bin\Debug\net5.0\C15_Generic.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C15_Generic\bin\Debug\net5.0\C15_Generic.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\C15_Generic\obj\Debug\net5.0\C15_Generic.csproj.AssemblyReference.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C15_Generic\obj\Debug\net5.0\C15_Generic.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitTraning\TraningOnJob\C15_Generic\obj\Debug\net5.0\C15_Generic.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C15_Generic\obj\Debug\net5.0\C15_Generic.AssemblyInfo.cs
+E:\TraningOnJob\GitTraning\TraningOnJob\C15_Generic\obj\Debug\net5.0\C15_Generic.csproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C15_Generic\obj\Debug\net5.0\C15_Generic.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C15_Generic\obj\Debug\net5.0\refint\C15_Generic.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C15_Generic\obj\Debug\net5.0\C15_Generic.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\C15_Generic\obj\Debug\net5.0\C15_Generic.genruntimeconfig.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C15_Generic\obj\Debug\net5.0\ref\C15_Generic.dll

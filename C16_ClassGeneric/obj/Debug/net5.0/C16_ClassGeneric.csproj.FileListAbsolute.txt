@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitTraning\TraningOnJob\C16_ClassGeneric\bin\Debug\net5.0\C16_ClassGeneric.exe
+E:\TraningOnJob\GitTraning\TraningOnJob\C16_ClassGeneric\bin\Debug\net5.0\C16_ClassGeneric.deps.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C16_ClassGeneric\bin\Debug\net5.0\C16_ClassGeneric.runtimeconfig.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C16_ClassGeneric\bin\Debug\net5.0\C16_ClassGeneric.runtimeconfig.dev.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C16_ClassGeneric\bin\Debug\net5.0\C16_ClassGeneric.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C16_ClassGeneric\bin\Debug\net5.0\C16_ClassGeneric.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\C16_ClassGeneric\obj\Debug\net5.0\C16_ClassGeneric.csproj.AssemblyReference.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C16_ClassGeneric\obj\Debug\net5.0\C16_ClassGeneric.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitTraning\TraningOnJob\C16_ClassGeneric\obj\Debug\net5.0\C16_ClassGeneric.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C16_ClassGeneric\obj\Debug\net5.0\C16_ClassGeneric.AssemblyInfo.cs
+E:\TraningOnJob\GitTraning\TraningOnJob\C16_ClassGeneric\obj\Debug\net5.0\C16_ClassGeneric.csproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C16_ClassGeneric\obj\Debug\net5.0\C16_ClassGeneric.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C16_ClassGeneric\obj\Debug\net5.0\refint\C16_ClassGeneric.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C16_ClassGeneric\obj\Debug\net5.0\C16_ClassGeneric.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\C16_ClassGeneric\obj\Debug\net5.0\C16_ClassGeneric.genruntimeconfig.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C16_ClassGeneric\obj\Debug\net5.0\ref\C16_ClassGeneric.dll

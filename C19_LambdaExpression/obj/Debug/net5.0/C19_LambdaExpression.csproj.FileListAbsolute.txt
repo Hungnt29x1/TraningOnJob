@@ -1,0 +1,16 @@
+E:\TraningOnJob\GitTraning\TraningOnJob\C19_LambdaExpression\bin\Debug\net5.0\C19_LambdaExpression.exe
+E:\TraningOnJob\GitTraning\TraningOnJob\C19_LambdaExpression\bin\Debug\net5.0\C19_LambdaExpression.deps.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C19_LambdaExpression\bin\Debug\net5.0\C19_LambdaExpression.runtimeconfig.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C19_LambdaExpression\bin\Debug\net5.0\C19_LambdaExpression.runtimeconfig.dev.json
+E:\TraningOnJob\GitTraning\TraningOnJob\C19_LambdaExpression\bin\Debug\net5.0\C19_LambdaExpression.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C19_LambdaExpression\bin\Debug\net5.0\C19_LambdaExpression.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\C19_LambdaExpression\obj\Debug\net5.0\C19_LambdaExpression.csproj.AssemblyReference.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C19_LambdaExpression\obj\Debug\net5.0\C19_LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+E:\TraningOnJob\GitTraning\TraningOnJob\C19_LambdaExpression\obj\Debug\net5.0\C19_LambdaExpression.AssemblyInfoInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C19_LambdaExpression\obj\Debug\net5.0\C19_LambdaExpression.AssemblyInfo.cs
+E:\TraningOnJob\GitTraning\TraningOnJob\C19_LambdaExpression\obj\Debug\net5.0\C19_LambdaExpression.csproj.CoreCompileInputs.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C19_LambdaExpression\obj\Debug\net5.0\C19_LambdaExpression.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C19_LambdaExpression\obj\Debug\net5.0\refint\C19_LambdaExpression.dll
+E:\TraningOnJob\GitTraning\TraningOnJob\C19_LambdaExpression\obj\Debug\net5.0\C19_LambdaExpression.pdb
+E:\TraningOnJob\GitTraning\TraningOnJob\C19_LambdaExpression\obj\Debug\net5.0\C19_LambdaExpression.genruntimeconfig.cache
+E:\TraningOnJob\GitTraning\TraningOnJob\C19_LambdaExpression\obj\Debug\net5.0\ref\C19_LambdaExpression.dll
